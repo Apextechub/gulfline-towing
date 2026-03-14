@@ -100,7 +100,7 @@ const Navbar = () => {
             href="tel:7742310999"
             className="mt-3 bg-red-600 hover:bg-red-700 text-white text-sm font-black uppercase tracking-wider text-center px-5 py-4 transition-colors duration-200"
           >
-            CALL (774) 231-0999
+            CALL (774) 231-0999.
           </a>
         </div>
       </div>
