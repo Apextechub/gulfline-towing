@@ -55,7 +55,8 @@ const Footers = () => {
             <div className="flex items-center gap-2 text-gray-400 text-sm mb-2">
               <Phone size={14} className="text-red-500 flex-shrink-0" />
               <span style={{ fontFamily: "'Poppins', sans-serif" }}>
-                (774) 231-0999
+              +1 (863) 456 7910
+
               </span>
             </div>
 

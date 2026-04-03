@@ -66,7 +66,8 @@ const HeroSect = () => {
           className="group flex items-center gap-3 bg-red-600 hover:bg-red-700 text-white font-black uppercase tracking-widest text-lg px-10 py-5 transition-all duration-200 hover:shadow-2xl hover:-translate-y-1 active:translate-y-0"
         >
           <Phone size={20} className="group-hover:animate-bounce" />
-          CALL (774) 231-0999
+          CALL +1 (863) 456 7910
+
         </a>
 
         {/* Trust badge row */}
